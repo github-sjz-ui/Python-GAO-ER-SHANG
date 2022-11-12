@@ -1,4 +1,3 @@
-import sys
 a=""
 s=input("请输入两个数（用空格分隔）")
 for i in s:
