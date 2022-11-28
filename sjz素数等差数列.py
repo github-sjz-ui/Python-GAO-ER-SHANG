@@ -26,6 +26,7 @@ def g(x):
                     list=[]
             else:
                 break
+        list=[]
     return list1
 n=int(input("请输入整数n："))
 len_max=0
@@ -37,4 +38,3 @@ for x in range(2,n):
             len_max=len(list2[i])
             result=list2[i]
 print(result,len_max)
-#[7, 37, 11, 41, 71]
