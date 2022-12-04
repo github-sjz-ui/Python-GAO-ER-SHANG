@@ -6,7 +6,7 @@ def isprime(n):
         if n%i == 0:
             return False
     return True
-def  f(n):
+def  k(n):
     lis=[]
     for i in range(1,n+1):
         if isprime(i):
@@ -15,12 +15,12 @@ def  f(n):
 def g(x):
     list1=[]
     list=[]
-    lis=f(n)
+    lis=k(n)
     for i in range(len(lis)):
         for a in range(1,n//x):
-            if lis[i]+x*a in lis:
+            if lis[i]+x*a in lis :
                 list.append(lis[i]+x*(a-1))
-                if list[-1]+x*2 not in lis:
+                if list[-1]+x*2 not in lis :
                     list.append(list[-1]+x)
                     list1.append(list)
                     list=[]
@@ -30,11 +30,25 @@ def g(x):
     return list1
 n=int(input("请输入整数n："))
 len_max=0
-for x in range(2,n):
-    list2=g(x)
-    #print(list2)
-    for i in range(len(list2)):
-        if len(list2[i]) > len_max:
-            len_max=len(list2[i])
-            result=list2[i]
-print(result,len_max)
+with open('test.txt','w',encoding='utf-8') as f:
+    for x in range(2,n):
+        list2=g(x)
+        print(list2)
+        s1=(" ".join('%s' %id for id in list2))
+        f.write(s1+'\n')
+        for i in range(len(list2)):
+            if len(list2[i]) > len_max:
+                len_max=len(list2[i])
+                result=list2[i]
+    s2='['+(",".join('%s' %id for id in result))+']'
+    f.write(s2)
+    print(result,len_max)
+    for x in range(2,n):
+        list2=g(x)
+        for i in range(len(list2)):
+            if len(list2[i]) == len_max:
+                result=list2[i]
+                s2='['+(",".join('%s' %id for id in result))+']'
+                f.write(s2)
+                print(result,len_max)
+f.close()
