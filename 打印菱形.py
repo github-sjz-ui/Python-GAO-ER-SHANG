@@ -8,5 +8,5 @@ for i in range (1,n+1):
     print(k+t)
 for i in range(1,n):
     k=i*' '
-    t=(-2*i+9)*'*'
+    t=(-2*i+2*n-1)*'*'
     print(k+t)
