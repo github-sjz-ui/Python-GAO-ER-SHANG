@@ -16,18 +16,5 @@ matplotlib.pyplot和pandas<br>
 
 jieba和wordscloud
 
-词	次数
-危险	21
-过年	12
-年味	11
-浪漫	10
-刺激	10
-可以	9
-开心	9
-安全	6
-规定	6
-安全隐患	5
-燃放烟花	5
-自由	5
-营造	5
-![image](https://user-images.githubusercontent.com/69446590/212524389-465698f4-a7ae-409e-9070-b80e05d5b29d.png)
+摘取前50
+![image](https://user-images.githubusercontent.com/69446590/212524441-c3ef4db3-c476-43a6-b3e3-03c86f8c6857.png)
