@@ -1,13 +1,14 @@
 # 统计人数绘制饼图
 matplotlib.pyplot和pandas<br>
-![Figure 2023-01-14 132827 (0)](https://user-images.githubusercontent.com/69446590/212457531-4032612e-b3d3-48b1-b2e8-63478bdefafa.png)
-![Figure 2023-01-14 132827 (1)](https://user-images.githubusercontent.com/69446590/212457533-7d29eede-2c4f-47b3-a480-611c5235f246.png)
-![Figure 2023-01-14 132827 (2)](https://user-images.githubusercontent.com/69446590/212457536-e9df149f-9d89-41fc-b1fc-83adac453dcf.png)
-![Figure 2023-01-14 132827 (3)](https://user-images.githubusercontent.com/69446590/212457538-2d1994ff-1327-48fe-8d1c-0dc4ce612b09.png)
-![Figure 2023-01-14 132827 (4)](https://user-images.githubusercontent.com/69446590/212457539-78c9a1e4-5405-47ca-9a33-6c891dc015fb.png)
-![Figure 2023-01-14 132827 (5)](https://user-images.githubusercontent.com/69446590/212457541-56d7ad4f-8a8d-497d-a0b8-cd7125811c96.png)
-![Figure 2023-01-14 132827 (6)](https://user-images.githubusercontent.com/69446590/212457546-1b874863-4a5d-44b0-ad28-4cb0d6f33482.png)
-![Figure 2023-01-14 132827 (7)](https://user-images.githubusercontent.com/69446590/212457550-73f6250e-f293-407d-9fd9-da6dade13c7a.png)
+![Figure 2023-01-15 115026 (0)](https://user-images.githubusercontent.com/69446590/212522050-8dffa9fb-f9bf-410b-a4e1-f5c752f31ae7.png)
+![Figure 2023-01-15 115026 (1)](https://user-images.githubusercontent.com/69446590/212522053-8805d064-84da-466b-b602-cb8b7d4447c8.png)
+![Figure 2023-01-15 115026 (2)](https://user-images.githubusercontent.com/69446590/212522056-6e83fc1a-4959-4ba7-b545-f9ea299c3e75.png)
+![Figure 2023-01-15 115026 (3)](https://user-images.githubusercontent.com/69446590/212522060-59c83a27-ecb6-47dd-846b-53fa02010fe2.png)
+![Figure 2023-01-15 115026 (4)](https://user-images.githubusercontent.com/69446590/212522069-8f1d0913-1bd4-4fe8-9bf1-1a33479270aa.png)
+![Figure 2023-01-15 115026 (5)](https://user-images.githubusercontent.com/69446590/212522075-65ab6f56-30b3-4deb-9a75-ca5ae500622c.png)
+![Figure 2023-01-15 115026 (6)](https://user-images.githubusercontent.com/69446590/212522078-c3306a00-2a65-4a00-ac34-ca1b9ea25dba.png)
+![Figure 2023-01-15 115026 (7)](https://user-images.githubusercontent.com/69446590/212522079-dd0d1eb0-4b1b-4b98-8fb3-787825bda6ab.png)
+
 
 
 # 制作词云
