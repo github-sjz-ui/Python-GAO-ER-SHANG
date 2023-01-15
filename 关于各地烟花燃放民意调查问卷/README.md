@@ -1,5 +1,5 @@
 # 利用Python统计人数：
-涉及matplotlib.pyplot as plt和pandas<br>
+涉及matplotlib.pyplot和pandas<br>
 ![Figure 2023-01-14 132827 (0)](https://user-images.githubusercontent.com/69446590/212457531-4032612e-b3d3-48b1-b2e8-63478bdefafa.png)
 ![Figure 2023-01-14 132827 (1)](https://user-images.githubusercontent.com/69446590/212457533-7d29eede-2c4f-47b3-a480-611c5235f246.png)
 ![Figure 2023-01-14 132827 (2)](https://user-images.githubusercontent.com/69446590/212457536-e9df149f-9d89-41fc-b1fc-83adac453dcf.png)
@@ -11,3 +11,6 @@
 
 
 制作词云
+
+
+利用jieba和wordscloud
