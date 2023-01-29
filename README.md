@@ -1,2 +1,2 @@
 # Python
-This is the codebase of a high school student.
+# This is the codebase of a high school student.
